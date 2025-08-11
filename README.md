@@ -1,4 +1,4 @@
-# RSTE - Steam Stealer
+# RSTE
 
 ## Установка и настройка
 
@@ -40,4 +40,5 @@ rste/
 - Steam установлен
 
 ---
+
 **Author:** [@hellyeahs](https://t.me/hellyeahs)
