@@ -30,7 +30,8 @@ if %ERRORLEVEL% EQU 0 (
         echo   - build\steal.exe
         echo   - build\login.exe
         for /L %%i in (1,1,15) do (
-            echo created by https://t.me/hellyeahs
+            echo original/idea by https://t.me/kryyaasoft
+            echo rust rewrote by https://t.me/hellyeahs
         )
     ) else (
         echo Build failed!
@@ -40,3 +41,4 @@ if %ERRORLEVEL% EQU 0 (
 )
 
 pause
+
