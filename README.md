@@ -41,4 +41,8 @@ rste/
 
 ---
 
-**Author:** [@hellyeahs](https://t.me/hellyeahs)
+**Authors:** 
+[@hellyeahs](https://t.me/hellyeahs)
+[@kryyaasoft](https://t.me/kryyaasoft)
+
+
