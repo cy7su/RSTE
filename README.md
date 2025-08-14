@@ -42,7 +42,8 @@ rste/
 ---
 
 **Authors:** 
-[@hellyeahs](https://t.me/hellyeahs)
+[@cy7su](https://t.me/cy7su)
 [@kryyaasoft](https://t.me/kryyaasoft)
+
 
 
